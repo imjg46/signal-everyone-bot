@@ -30,4 +30,5 @@ After that, **config.json** Put your information
 
 # How to run 
 > run the script **bot.py**
+
 The script must be always running in order to @everyone to work.
