@@ -25,7 +25,7 @@ run the command in **signal-cli-0.14.6\bin**
 
  Focus on the Members part, only extract the uuid using any llm you want
 
- Then copy it in the **bot.py** field
+ Then copy it in the **bot.py** field.
 After that, **config.json** Put your information
 
 # How to run 
