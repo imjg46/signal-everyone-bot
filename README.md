@@ -27,6 +27,8 @@ You'll need these files:
 > Focus on the Members part, only extract the uuid using any llm you want
 >
 > Then copy it in the **bot.py** field
+>
+> After that, **config.json** Put your information
 
 # How to run 
 > run the script **bot.py**
